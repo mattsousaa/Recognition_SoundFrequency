@@ -1,7 +1,12 @@
 clear all clc;
 
 % Programa que identifica as notas da escala diatônica de Dó maior. 
-% C (dó) - D (ré) - E (mi) - F (fá) - S (sol) - A (lá) - S (si) - C (dó)
+% C (dó) - D (ré) - E (mi) - F (fá) - S (sol) - A (lá) - B (si) - C (dó)
+
+% Pode ser acrescentado condições no programa para identificação de notas na escala cromática: (#) Sustenidos e (b) Bemois.
+% C - C# - D - D# - E - F - F# - G - G# - A - A# - B (escala ascendente)
+% C - Db - D - Eb - E - F - Gb - G - Ab - A - Bb - B (escala descendente)
+
 
 while true
 
