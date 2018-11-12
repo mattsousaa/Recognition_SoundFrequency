@@ -1,6 +1,7 @@
 clear all clc;
 
 % Programa que identifica as notas da escala diatônica de Dó maior. 
+% C (dó) - D (ré) - E (mi) - F (fá) - S (sol) - A (lá) - S (si) - D (dó)
 
 while true
 
