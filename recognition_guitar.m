@@ -1,5 +1,7 @@
 clear all clc;
 
+% Programa que identifica as notas da escala diatônica de Dó maior. 
+
 while true
 
     y=isempty (input ('Press enter to record input signal'));        
